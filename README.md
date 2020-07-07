@@ -1,5 +1,4 @@
 # hello-world
-just an assignment from my professor :))
 
 
 Hi anyone who is reading this edit
